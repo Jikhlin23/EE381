@@ -1,10 +1,14 @@
-# EE381
-Hands on Arduino and ESP32 
-iOT project 
+# EE381  
+**Hands-on Arduino and ESP32**  
+IoT Project  
 
-#Car crash detection and notification delivery system 
-Wifi module
-Accelerometer
-Telegram API integration
-GPS module
-Peizoelectric Buzzer
+---
+
+## Car Crash Detection and Notification Delivery System  
+
+**Components Used:**  
+- Wi-Fi Module  
+- Accelerometer  
+- GPS Module  
+- Piezoelectric Buzzer  
+- Telegram API Integration  
