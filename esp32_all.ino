@@ -10,7 +10,7 @@ const char* ssid = "iphone13";
 const char* password = "nikhils23j";
 
 // Telegram
-String botToken = "8084528112:AAGIYHP5aF9EZV2S-4Z9y9jj-2M5z8gNLe0";
+String botToken = "user_token";
 String chatID = "1519496749";
 
 // Buzzer
